@@ -18,7 +18,6 @@ const Dashboard = () => {
   const [income, setIncome] = useState(0);
   const [expense, setExpense] = useState(0);
   const [currentBalance, setCurrentBalance] = useState(0);
-  const apiKey = 'AIzaSyB1q90LmlIyiBKZkUySHL59beIr5gEho0s';
 
   const showExpenseModal = () => {
     setIsExpenseModalVisible(true);
