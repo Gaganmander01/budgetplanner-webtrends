@@ -21,7 +21,7 @@ function App() {
         pauseOnHover
         theme="light"
       />
-      <Router>
+      <Router basename="/budgetplanner-webtrends">
         <Header />
         <Routes>
           <Route path="/" element={<Signup />} />

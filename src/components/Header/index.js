@@ -20,7 +20,7 @@ const Header = () => {
     <>
       <div className="navbar">
         <h1>
-          Budget Planner 
+          Budget Planner
           <GiReceiveMoney className="logo-image" />
         </h1>
         
