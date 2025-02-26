@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/budgetplanner-webtrends/static/css/main.873d341b.css",
+    "main.js": "/budgetplanner-webtrends/static/js/main.dadd745f.js",
+    "index.html": "/budgetplanner-webtrends/index.html",
+    "main.873d341b.css.map": "/budgetplanner-webtrends/static/css/main.873d341b.css.map",
+    "main.dadd745f.js.map": "/budgetplanner-webtrends/static/js/main.dadd745f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.873d341b.css",
+    "static/js/main.dadd745f.js"
+  ]
+}
